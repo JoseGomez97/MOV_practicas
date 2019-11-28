@@ -1,105 +1,1147 @@
 ﻿  Application.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Application.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKMSWindow.h(71,50): warning C4458: la declaración de 'Title' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKBasicWindow.h(43,15): message : vea la declaración de 'CBWindow::Title'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Application.cpp(81,35): warning C4458: la declaración de 'Stream' oculta el miembro de clase
   ExplosiveChar.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\ExplosiveChar.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Application.h(71,10): message : vea la declaración de 'CApplication::Stream'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
   FontsManager.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\FontsManager.cpp': No such file or directory
   Game.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Game.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
   Explosion.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Particles\Explosion.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKHardware.h(82,19): warning C4251: 'UGK::CHardware::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CHardware'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKAudioHardware.h(84,19): warning C4251: 'UGK::UGKAudioHardware::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::UGKAudioHardware'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSound.h(101,19): warning C4251: 'UGK::CSound::Path': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CSound'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSound.h(102,10): warning C4251: 'UGK::CSound::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CSound'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(106,20): warning C4251: 'UGK::State::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::State'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251: 'UGK::State::Transition': class 'std::vector<UGK::_transition,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::State'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251:             _Ty=UGK::_transition
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message : vea la declaración de 'std::vector<UGK::_transition,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message :             _Ty=UGK::_transition
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251: 'UGK::State::Specification': class 'std::vector<UGK::_specification,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::State'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251:             _Ty=UGK::_specification
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message : vea la declaración de 'std::vector<UGK::_specification,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message :             _Ty=UGK::_specification
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(156,7): warning C4251: 'UGK::Vector::v': struct 'glm::detail::tvec4<float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Vector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\glm\detail\type_vec.hpp(282): message : vea la declaración de 'glm::detail::tvec4<float,0>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(211,7): warning C4251: 'UGK::Matrix::M': struct 'glm::detail::tmat4x4<float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Matrix'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\glm\detail\type_mat.hpp(330): message : vea la declaración de 'glm::detail::tmat4x4<float,0>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKGLTexture.h(28,22): warning C4251: 'GLTextureV::FilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'GLTextureV'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKGLTexture.h(29,22): warning C4251: 'GLTextureV::FileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'GLTextureV'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(147,34): warning C4251: 'Model_3DS::importer': class 'Assimp::Importer' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\assimp\include\assimp\Importer.hpp(116): message : vea la declaración de 'Assimp::Importer'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(151,23): warning C4251: 'Model_3DS::ModelName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(152,8): warning C4251: 'Model_3DS::Path': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(163,17): warning C4251: 'Model_3DS::pos': union 'UGK::UGKALG_SimpleVector' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(282): message : vea la declaración de 'UGK::UGKALG_SimpleVector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(164,8): warning C4251: 'Model_3DS::rot': union 'UGK::UGKALG_SimpleVector' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(282): message : vea la declaración de 'UGK::UGKALG_SimpleVector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(165,10): warning C4251: 'Model_3DS::scale': union 'UGK::UGKALG_SimpleVector' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(282): message : vea la declaración de 'UGK::UGKALG_SimpleVector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKMesh3D.h(35,23): warning C4251: 'UGK::CMesh3d::FilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CMesh3d'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKMesh3D.h(36,23): warning C4251: 'UGK::CMesh3d::FileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CMesh3d'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251: 'UGK::Quadtree::characters': class 'std::vector<UGK::CCharacter *,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Quadtree'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251:             _Ty=UGK::CCharacter *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message : vea la declaración de 'std::vector<UGK::CCharacter *,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :             _Ty=UGK::CCharacter *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251: 'UGK::QuadtreeRoot::CharacterAmount': class 'std::vector<int,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::QuadtreeRoot'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251:             _Ty=int
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message : vea la declaración de 'std::vector<int,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message :             _Ty=int
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(144,2): warning C4275: se ha utilizado una interfaz no de DLL class 'RTDESK_CEntity' como base para la interfaz DLL class 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\RT-DESK\include\RTDeskEntity.h(26): message : vea la declaración de 'RTDESK_CEntity'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(143): message : vea la declaración de 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(149,26): warning C4251: 'UGK::CCharacter::Sound': class 'std::vector<UGK::CSound *,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(149,26): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(149,26): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(149,26): warning C4251:             _Ty=UGK::CSound *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(149,26): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(138): message : vea la declaración de 'std::vector<UGK::CSound *,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(138): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(138): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(138): message :             _Ty=UGK::CSound *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(138): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(152,25): warning C4251: 'UGK::CCharacter::MeshName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CCharacter'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(165,27): warning C4251: 'UGK::CCharacter::Directory': class 'std::vector<UGK::CCharacter *,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(165,27): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(165,27): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(165,27): warning C4251:             _Ty=UGK::CCharacter *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(165,27): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message : vea la declaración de 'std::vector<UGK::CCharacter *,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :             _Ty=UGK::CCharacter *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(166,26): warning C4251: 'UGK::CCharacter::Timer': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(166,26): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(166,26): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(166,26): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(166,26): warning C4251:         ]
   ScoreManager.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\ScoreManager.cpp': No such file or directory
   shader.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Shaders\shader.cpp': No such file or directory
   shaderManager.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Shaders\shaderManager.cpp': No such file or directory
   shader2.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Shaders\Shaders2\shader2.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Shaders\Shaders2\shader2.h(31,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSHD_SHADER_STATES' cuando no hay ninguna variable declarada
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(486,22): warning C4505: 'glutInit_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(503,21): warning C4505: 'glutCreateWindow_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
   ShaderManager2.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Shaders\Shaders2\ShaderManager2.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(549,21): warning C4505: 'glutCreateMenu_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Shaders\Shaders2\shader2.h(31,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'CSHD_SHADER_STATES' cuando no hay ninguna variable declarada
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(486,22): warning C4505: 'glutInit_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(503,21): warning C4505: 'glutCreateWindow_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
   TextoGL.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Text2D3D\TextoGL.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(549,21): warning C4505: 'glutCreateMenu_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\rttimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(156,7): warning C4251: 'UGK::Vector::v': struct 'glm::detail::tvec4<float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Vector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\glm\detail\type_vec.hpp(282): message : vea la declaración de 'glm::detail::tvec4<float,0>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(211,7): warning C4251: 'UGK::Matrix::M': struct 'glm::detail::tmat4x4<float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Matrix'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\glm\detail\type_mat.hpp(330): message : vea la declaración de 'glm::detail::tmat4x4<float,0>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Text2D3D\TextoGL.cpp(65,122): warning C4458: la declaración de 'color' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Text2D3D\TextoGL.h(19,10): message : vea la declaración de 'cTextoGL::color'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(486,22): warning C4505: 'glutInit_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(503,21): warning C4505: 'glutCreateWindow_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
   Texture.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Textures\Texture.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(549,21): warning C4505: 'glutCreateMenu_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Textures\Texture.cpp(16,30): warning C4245: '=': conversión de 'int' en 'unsigned int'; no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Textures\Texture.cpp(64,56): warning C4244: 'argumento': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
   TextureAnimation.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Textures\TextureAnimation.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Textures\Texture.cpp(253,22): warning C4244: '=': conversión de 'GLuint' a 'GLubyte'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKHardware.h(82,19): warning C4251: 'UGK::CHardware::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CHardware'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKAudioHardware.h(84,19): warning C4251: 'UGK::UGKAudioHardware::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::UGKAudioHardware'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSound.h(101,19): warning C4251: 'UGK::CSound::Path': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CSound'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSound.h(102,10): warning C4251: 'UGK::CSound::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CSound'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(106,20): warning C4251: 'UGK::State::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::State'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251: 'UGK::State::Transition': class 'std::vector<UGK::_transition,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::State'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251:             _Ty=UGK::_transition
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107,38): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message : vea la declaración de 'std::vector<UGK::_transition,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message :             _Ty=UGK::_transition
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(107): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251: 'UGK::State::Specification': class 'std::vector<UGK::_specification,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::State'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251:             _Ty=UGK::_specification
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108,44): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message : vea la declaración de 'std::vector<UGK::_specification,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message :             _Ty=UGK::_specification
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\AI\State.h(108): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(156,7): warning C4251: 'UGK::Vector::v': struct 'glm::detail::tvec4<float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Vector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\glm\detail\type_vec.hpp(282): message : vea la declaración de 'glm::detail::tvec4<float,0>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(211,7): warning C4251: 'UGK::Matrix::M': struct 'glm::detail::tmat4x4<float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Matrix'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\glm\detail\type_mat.hpp(330): message : vea la declaración de 'glm::detail::tmat4x4<float,0>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKGLTexture.h(28,22): warning C4251: 'GLTextureV::FilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'GLTextureV'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKGLTexture.h(29,22): warning C4251: 'GLTextureV::FileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'GLTextureV'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(147,34): warning C4251: 'Model_3DS::importer': class 'Assimp::Importer' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\assimp\include\assimp\Importer.hpp(116): message : vea la declaración de 'Assimp::Importer'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(151,23): warning C4251: 'Model_3DS::ModelName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(152,8): warning C4251: 'Model_3DS::Path': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(163,17): warning C4251: 'Model_3DS::pos': union 'UGK::UGKALG_SimpleVector' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(282): message : vea la declaración de 'UGK::UGKALG_SimpleVector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(164,8): warning C4251: 'Model_3DS::rot': union 'UGK::UGKALG_SimpleVector' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(282): message : vea la declaración de 'UGK::UGKALG_SimpleVector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKModel_3DS.h(165,10): warning C4251: 'Model_3DS::scale': union 'UGK::UGKALG_SimpleVector' necesita tener una interfaz DLL para que la utilicen los clientes de class 'Model_3DS'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(282): message : vea la declaración de 'UGK::UGKALG_SimpleVector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKMesh3D.h(35,23): warning C4251: 'UGK::CMesh3d::FilePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CMesh3d'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Meshes\UGKMesh3D.h(36,23): warning C4251: 'UGK::CMesh3d::FileName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CMesh3d'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251: 'UGK::Quadtree::characters': class 'std::vector<UGK::CCharacter *,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Quadtree'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251:             _Ty=UGK::CCharacter *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(42,27): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message : vea la declaración de 'std::vector<UGK::CCharacter *,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :             _Ty=UGK::CCharacter *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251: 'UGK::QuadtreeRoot::CharacterAmount': class 'std::vector<int,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::QuadtreeRoot'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251:             _Ty=int
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22,36): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message : vea la declaración de 'std::vector<int,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message :             _Ty=int
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\QuadtreeRoot.h(22): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(144,2): warning C4275: se ha utilizado una interfaz no de DLL class 'RTDESK_CEntity' como base para la interfaz DLL class 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\RT-DESK\include\RTDeskEntity.h(26): message : vea la declaración de 'RTDESK_CEntity'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(143): message : vea la declaración de 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(149,26): warning C4251: 'UGK::CCharacter::Sound': class 'std::vector<UGK::CSound *,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(149,26): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(149,26): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(149,26): warning C4251:             _Ty=UGK::CSound *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(149,26): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(138): message : vea la declaración de 'std::vector<UGK::CSound *,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(138): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(138): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(138): message :             _Ty=UGK::CSound *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(138): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(152,25): warning C4251: 'UGK::CCharacter::MeshName': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CCharacter'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(165,27): warning C4251: 'UGK::CCharacter::Directory': class 'std::vector<UGK::CCharacter *,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(165,27): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(165,27): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(165,27): warning C4251:             _Ty=UGK::CCharacter *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(165,27): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message : vea la declaración de 'std::vector<UGK::CCharacter *,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :             _Ty=UGK::CCharacter *
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\CollisionDetect\Quadtree.h(18): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(166,26): warning C4251: 'UGK::CCharacter::Timer': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CCharacter'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(166,26): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(166,26): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(166,26): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKcharacter.h(166,26): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49,56): warning C4251: 'UGK::CCharactersFactory::CharacterDict': class 'std::map<std::string,UGK::UGKOBJM_CharacterType,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::CCharactersFactory'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49,56): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49,56): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49,56): warning C4251:             _Kty=std::string,
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49,56): warning C4251:             _Ty=UGK::UGKOBJM_CharacterType
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49,56): warning C4251:         ]
   TextureAnimationManager.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Textures\TextureAnimationManager.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49): message : vea la declaración de 'std::map<std::string,UGK::UGKOBJM_CharacterType,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49): message :             _Kty=std::string,
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49): message :             _Ty=UGK::UGKOBJM_CharacterType
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\ObjectsManager\UGKCharactersFactory.h(49): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
   TexturesManager.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'API\Textures\TexturesManager.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
   HRTimer.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\HRT\HRTimer.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.cpp(36,48): warning C4458: la declaración de 'SF' oculta el miembro de clase
   HRTimerManager.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\HRT\HRTimerManager.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(73,11): message : vea la declaración de 'cRTTimer::SF'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
   HRTimerStat.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\HRT\HRTimerStat.cpp': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerStat.cpp(41,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerStat.cpp(175,40): warning C4244: '*=': conversión de 'float' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerStat.cpp(176,44): warning C4244: '=': conversión de 'float' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerStat.cpp(184,35): warning C4244: '*=': conversión de 'float' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerStat.cpp(185,43): warning C4244: '=': conversión de 'float' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerStat.cpp(194,76): warning C4244: '+=': conversión de 'float' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerStat.cpp(202,62): warning C4244: '+=': conversión de 'float' a '__int64'; posible pérdida de datos
   LiteHTMLAttributes.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\LiteHTML\LiteHTMLAttributes.cpp': No such file or directory
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
   LiteHTMLEntityResolver.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\LiteHTML\LiteHTMLEntityResolver.cpp': No such file or directory
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
   Generando código...
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerStat.cpp(227,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Textures\Texture.cpp(106): warning C4702: no se puede tener acceso al código
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\ScoreManager.cpp(55): warning C4702: no se puede tener acceso al código
   Compilando...
   LiteHTMLReader.cpp
-c1xx : fatal error C1083: No se puede abrir el archivo origen: 'lib\LiteHTML\LiteHTMLReader.cpp': No such file or directory
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
   glTexFont.cpp
-y:\iarfid\mov\prácticas\space invaders\lib\opengl\gltexfont.cpp(19): fatal error C1083: No se puede abrir el archivo incluir: 'glTexFont.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\API\Application.cpp(109): warning C4702: no se puede tener acceso al código
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\glTexFont.cpp(555,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
   Bonus.cpp
-y:\iarfid\mov\prácticas\space invaders\include\sitexturesresources.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\glTexFont.cpp(556,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
   BonusManager.cpp
-y:\iarfid\mov\prácticas\space invaders\include\bonus.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'ExplosiveChar.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bonus.cpp(253,42): warning C4100: 'pMsg': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
   Boometer.cpp
-y:\iarfid\mov\prácticas\space invaders\include\boometer.h(10): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharacter.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\BonusManager.cpp(299,49): warning C4100: 'pMsg': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Boometer.cpp(60,33): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
   Brick.cpp
-y:\iarfid\mov\prácticas\space invaders\include\sitexturesresources.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Boometer.cpp(61,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
   Bunker.cpp
-y:\iarfid\mov\prácticas\space invaders\include\shoot.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKSoundsManager.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(212,37): warning C4100: 'Move': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(294,104): warning C4244: '=': conversión de 'T' a 'int'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(294,104): warning C4244:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(294,104): warning C4244:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(294,104): warning C4244:             T=float
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(294,104): warning C4244:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(295,104): warning C4244: '=': conversión de 'T' a 'int'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(295,104): warning C4244:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(295,104): warning C4244:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(295,104): warning C4244:             T=float
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(295,104): warning C4244:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(315): warning C4238: se ha utilizado una extensión no estándar: valor-R de clase utilizado como valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(328): warning C4238: se ha utilizado una extensión no estándar: valor-R de clase utilizado como valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(339): warning C4238: se ha utilizado una extensión no estándar: valor-R de clase utilizado como valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(315,31): warning C4238: se ha utilizado una extensión no estándar: valor-R de clase utilizado como valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(328,31): warning C4238: se ha utilizado una extensión no estándar: valor-R de clase utilizado como valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(339,29): warning C4238: se ha utilizado una extensión no estándar: valor-R de clase utilizado como valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Bunker.cpp(358,33): warning C4458: la declaración de 'Brick' oculta el miembro de clase
   CircleShip.cpp
-y:\iarfid\mov\prácticas\space invaders\include\shoot.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKSoundsManager.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\include\Bunker.h(45,9): message : vea la declaración de 'CBunker::Brick'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\CircleShip.cpp(238,5): warning C4189: 'Alpha': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\CircleShip.cpp(322,33): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\CircleShip.cpp(329,29): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\CircleShip.cpp(336,27): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\CircleShip.cpp(518,30): warning C4100: 'args': parámetro formal sin referencia
   GameCharacters.cpp
-y:\iarfid\mov\prácticas\space invaders\include\gamecharacters.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharactersFactory.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\CircleShip.cpp(524,26): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
   GameSounds.cpp
-y:\iarfid\mov\prácticas\space invaders\include\gamesounds.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
   Global.cpp
-y:\iarfid\mov\prácticas\space invaders\include\boometer.h(10): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharacter.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKMSWindow.h(71,50): warning C4458: la declaración de 'Title' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKBasicWindow.h(43,15): message : vea la declaración de 'CBWindow::Title'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(82,26): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(95,64): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,87): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,73): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,53): warning C4100: 'aspectRatio': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,41): warning C4100: 'fov': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,103): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,89): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,77): warning C4100: 'top': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,62): warning C4100: 'bottom': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,48): warning C4100: 'right': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,35): warning C4100: 'left': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(466,53): warning C4458: la declaración de 'folder' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(434,16): message : vea la declaración de 'UGK::CKeyboard::folder'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(486,22): warning C4505: 'glutInit_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(503,21): warning C4505: 'glutCreateWindow_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
   GlobalTiming.cpp
-y:\iarfid\mov\prácticas\space invaders\include\globaltiming.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'HRTimerManager.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(549,21): warning C4505: 'glutCreateMenu_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GlobalTiming.cpp(26,1): warning C4305: 'inicializando': truncamiento de 'double' a 'const float'
   GUI.cpp
-y:\iarfid\mov\prácticas\space invaders\include\boometer.h(10): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharacter.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GlobalTiming.cpp(98,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKMSWindow.h(71,50): warning C4458: la declaración de 'Title' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKBasicWindow.h(43,15): message : vea la declaración de 'CBWindow::Title'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(82,26): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(95,64): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,87): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,73): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,53): warning C4100: 'aspectRatio': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,41): warning C4100: 'fov': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,103): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,89): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,77): warning C4100: 'top': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,62): warning C4100: 'bottom': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,48): warning C4100: 'right': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,35): warning C4100: 'left': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(287,9): warning C4189: 'tx': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(962,13): warning C4456: la declaración de 'temp' oculta la declaración local anterior
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(941,7): message : vea la declaración de 'temp'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(977,19): warning C4456: la declaración de 'temp' oculta la declaración local anterior
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(941,7): message : vea la declaración de 'temp'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(1029,19): warning C4456: la declaración de 'temp' oculta la declaración local anterior
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(941,7): message : vea la declaración de 'temp'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(1380,39): warning C4100: 'lpParam': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(1460,122): warning C4840: uso no portable de la clase 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' como argumento de una función variádica
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(1460,122): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' es no trivial
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2230,5): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\GUI.cpp(1460,122): message : no se llamará al constructor ni al destructor; se pasará una copia bit a bit de la clase como argumento
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440,17): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(486,22): warning C4505: 'glutInit_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(503,21): warning C4505: 'glutCreateWindow_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
   InitializationParser.cpp
-y:\iarfid\mov\prácticas\space invaders\include\initializationparser.h(12): fatal error C1083: No se puede abrir el archivo incluir: 'UGKHTMLParser.h': No such file or directory
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(549,21): warning C4505: 'glutCreateMenu_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Parsers\UGKHTMLParser.h(202,33): warning C4100: 'hFile': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKMSWindow.h(71,50): warning C4458: la declaración de 'Title' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKBasicWindow.h(43,15): message : vea la declaración de 'CBWindow::Title'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(82,26): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(95,64): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,87): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,73): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,53): warning C4100: 'aspectRatio': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,41): warning C4100: 'fov': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,103): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,89): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,77): warning C4100: 'top': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,62): warning C4100: 'bottom': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,48): warning C4100: 'right': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,35): warning C4100: 'left': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(466,53): warning C4458: la declaración de 'folder' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(434,16): message : vea la declaración de 'UGK::CKeyboard::folder'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\InitializationParser.cpp(787,49): warning C4245: '=': conversión de 'int' en 'unsigned short'; no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\InitializationParser.cpp(907,4): warning C4063: case '1' no es un valor válido para la instrucción switch de la enumeración 'GCHARS_CharacterType'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\include\GameCharacters.h(21): message : vea la declaración de 'GCHARS_CharacterType'
   Laser.cpp
-y:\iarfid\mov\prácticas\space invaders\include\shoot.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKSoundsManager.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\InitializationParser.cpp(1227,54): warning C4100: 'Character': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Laser.cpp(248,65): warning C4239: se ha utilizado una extensión no estándar: 'argumento': conversión de 'UGK::Vector' a 'UGK::Vector &'
   LevelParser.cpp
-y:\iarfid\mov\prácticas\space invaders\include\levelparser.h(12): fatal error C1083: No se puede abrir el archivo incluir: 'UGKHTMLParser.h': No such file or directory
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Laser.cpp(248,65): message : Una referencia que no es const solamente se puede enlazar a un valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Parsers\UGKHTMLParser.h(202,33): warning C4100: 'hFile': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKMSWindow.h(71,50): warning C4458: la declaración de 'Title' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKBasicWindow.h(43,15): message : vea la declaración de 'CBWindow::Title'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(82,26): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(95,64): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,87): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,73): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,53): warning C4100: 'aspectRatio': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,41): warning C4100: 'fov': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,103): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,89): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,77): warning C4100: 'top': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,62): warning C4100: 'bottom': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,48): warning C4100: 'right': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,35): warning C4100: 'left': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(466,53): warning C4458: la declaración de 'folder' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(434,16): message : vea la declaración de 'UGK::CKeyboard::folder'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(218,13): warning C4459: la declaración de 'Ship' oculta la declaración global
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(49,10): message : vea la declaración de 'Ship'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(695,13): warning C4389: '==': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(1456,65): warning C4239: se ha utilizado una extensión no estándar: 'argumento': conversión de 'UGK::Vector' a 'UGK::Vector &'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(1456,65): message : Una referencia que no es const solamente se puede enlazar a un valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(1531,63): warning C4239: se ha utilizado una extensión no estándar: 'argumento': conversión de 'UGK::Vector' a 'UGK::Vector &'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(1531,63): message : Una referencia que no es const solamente se puede enlazar a un valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(1605,63): warning C4239: se ha utilizado una extensión no estándar: 'argumento': conversión de 'UGK::Vector' a 'UGK::Vector &'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(1605,63): message : Una referencia que no es const solamente se puede enlazar a un valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\LevelParser.cpp(1121,6): warning C4063: case '1' no es un valor válido para la instrucción switch de la enumeración 'GCHARS_CharacterType'
   Main.cpp
-y:\iarfid\mov\prácticas\space invaders\src\main.cpp(6): fatal error C1083: No se puede abrir el archivo incluir: 'UGKLanguages_ISO639.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\include\GameCharacters.h(21): message : vea la declaración de 'GCHARS_CharacterType'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKMSWindow.h(71,50): warning C4458: la declaración de 'Title' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKBasicWindow.h(43,15): message : vea la declaración de 'CBWindow::Title'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(466,53): warning C4458: la declaración de 'folder' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(434,16): message : vea la declaración de 'UGK::CKeyboard::folder'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Main.cpp(133,17): warning C4389: '!=': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Main.cpp(158,7): warning C4189: 'hWndButtom': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Main.cpp(209,23): warning C4459: la declaración de 'hFind' oculta la declaración global
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Main.cpp(52,10): message : vea la declaración de 'hFind'
   Navy.cpp
-y:\iarfid\mov\prácticas\space invaders\src\navy.cpp(8): fatal error C1083: No se puede abrir el archivo incluir: 'FSMParser.h': No such file or directory
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Main.cpp(308,9): warning C4189: 'firstTime': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Parsers\UGKHTMLParser.h(202,33): warning C4100: 'hFile': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(82,26): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(95,64): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Navy.cpp(198,39): warning C4459: la declaración de 'MeshesManager' oculta la declaración global
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Navy.cpp(22,23): message : vea la declaración de 'MeshesManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Navy.cpp(351,36): warning C4459: la declaración de 'Game' oculta la declaración global
   Player.cpp
-y:\iarfid\mov\prácticas\space invaders\include\laser.h(11): fatal error C1083: No se puede abrir el archivo incluir: 'ExplosiveChar.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Navy.cpp(23,19): message : vea la declaración de 'Game'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(466,53): warning C4458: la declaración de 'folder' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(434,16): message : vea la declaración de 'UGK::CKeyboard::folder'
   Reactor.cpp
-y:\iarfid\mov\prácticas\space invaders\include\shoot.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKSoundsManager.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Player.cpp(777,43): warning C4100: 'pMsg': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
   Generando código...
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\glTexFont.cpp(424): warning C4700: se utilizó la variable local 'buffer' sin inicializar
   Compilando...
   Scene.cpp
-y:\iarfid\mov\prácticas\space invaders\include\scene.h(12): fatal error C1083: No se puede abrir el archivo incluir: 'UGKAlgebra.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\glTexFont.cpp(1030): warning C4706: asignación en la expresión condicional
   Ship.cpp
-y:\iarfid\mov\prácticas\space invaders\src\ship.cpp(6): fatal error C1083: No se puede abrir el archivo incluir: 'AI\FSMParser.h': No such file or directory
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Parsers\UGKHTMLParser.h(202,33): warning C4100: 'hFile': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Ship.cpp(181,25): warning C4456: la declaración de 'Msg' oculta la declaración local anterior
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Ship.cpp(157,15): message : vea la declaración de 'Msg'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Ship.cpp(613,38): warning C4100: 'Ship': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Ship.cpp(613,25): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Ship.cpp(619,23): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Ship.cpp(625,26): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Ship.cpp(631,27): warning C4100: 'args': parámetro formal sin referencia
   Shoot.cpp
-y:\iarfid\mov\prácticas\space invaders\include\sitexturesresources.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Ship.cpp(637,23): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Shoot.cpp(417,61): warning C4239: se ha utilizado una extensión no estándar: 'argumento': conversión de 'UGK::Vector' a 'UGK::Vector &'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Shoot.cpp(417,61): message : Una referencia que no es const solamente se puede enlazar a un valor L
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Shoot.cpp(426,17): warning C4458: la declaración de 'msUpdMsg' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\include\Shoot.h(76,10): message : vea la declaración de 'CShoot::msUpdMsg'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Shoot.cpp(472,28): warning C4239: se ha utilizado una extensión no estándar: 'argumento': conversión de 'UGK::Vector' a 'UGK::Vector &'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Shoot.cpp(472,28): message : Una referencia que no es const solamente se puede enlazar a un valor L
   ShootsManager.cpp
-y:\iarfid\mov\prácticas\space invaders\include\gamecharacters.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharactersFactory.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\Shoot.cpp(493,42): warning C4100: 'pMsg': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\ShootsManager.cpp(206,50): warning C4100: 'pMsg': parámetro formal sin referencia
   SICharactersFactory.cpp
-y:\iarfid\mov\prácticas\space invaders\include\sicharactersfactory.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'UGKCharactersPool.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\ShootsManager.cpp(217,15): warning C4101: 'i': variable local sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
   SIGame.cpp
-y:\iarfid\mov\prácticas\space invaders\src\sigame.cpp(10): fatal error C1083: No se puede abrir el archivo incluir: 'UGKDeviceParser.h': No such file or directory
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Parsers\UGKHTMLParser.h(202,33): warning C4100: 'hFile': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(460,79): warning C4244: 'argumento': conversión de 'const WPARAM' a 'char'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(461,79): warning C4244: 'argumento': conversión de 'const WPARAM' a 'char'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(466,53): warning C4458: la declaración de 'folder' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(434,16): message : vea la declaración de 'UGK::CKeyboard::folder'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(507,78): warning C4244: 'argumento': conversión de 'int' a 'const unsigned char'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKMSWindow.h(71,50): warning C4458: la declaración de 'Title' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Graphics\Window\UGKBasicWindow.h(43,15): message : vea la declaración de 'CBWindow::Title'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(82,26): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(95,64): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,87): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,73): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,53): warning C4100: 'aspectRatio': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,41): warning C4100: 'fov': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,103): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,89): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,77): warning C4100: 'top': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,62): warning C4100: 'bottom': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,48): warning C4100: 'right': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,35): warning C4100: 'left': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(571,36): warning C4458: la declaración de 'Type' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCharacter.h(189,7): message : vea la declaración de 'UGK::CCharacter::Type'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(658,15): warning C4101: 'i': variable local sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(936,40): warning C4100: 'lpParam': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(1077,37): warning C4100: 'lpParam': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(1133,14): warning C4101: 'C': variable local sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(1639,118): warning C4840: uso no portable de la clase 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' como argumento de una función variádica
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(1639,118): message : 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' es no trivial
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2230,5): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(1639,118): message : no se llamará al constructor ni al destructor; se pasará una copia bit a bit de la clase como argumento
   SIKeyboard.cpp
-y:\iarfid\mov\prácticas\space invaders\include\bonus.h(14): fatal error C1083: No se puede abrir el archivo incluir: 'ExplosiveChar.h': No such file or directory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440,17): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(466,53): warning C4458: la declaración de 'folder' oculta el miembro de clase
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGKHW\include\UGKKeyboard.h(434,16): message : vea la declaración de 'UGK::CKeyboard::folder'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(82,26): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\SceneGraph\UGKSceneGraphUGK.h(95,64): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,87): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,73): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,53): warning C4100: 'aspectRatio': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(178,41): warning C4100: 'fov': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,103): warning C4100: '_far': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,89): warning C4100: '_near': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,77): warning C4100: 'top': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,62): warning C4100: 'bottom': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,48): warning C4100: 'right': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKCamera.h(190,35): warning C4100: 'left': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(486,22): warning C4505: 'glutInit_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(503,21): warning C4505: 'glutCreateWindow_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
   SIMessage.cpp
-y:\iarfid\mov\prácticas\space invaders\include\simessage.h(23): fatal error C1083: No se puede abrir el archivo incluir: 'RTDeskMsgFactory.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\OpenGL\GL\include\GL\glut.h(549,21): warning C4505: 'glutCreateMenu_ATEXIT_HACK': la función local a la que no se hace referencia se ha quitado
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\rttimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(156,7): warning C4251: 'UGK::Vector::v': struct 'glm::detail::tvec4<float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Vector'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\glm\detail\type_vec.hpp(282): message : vea la declaración de 'glm::detail::tvec4<float,0>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(211,7): warning C4251: 'UGK::Matrix::M': struct 'glm::detail::tmat4x4<float,0>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'UGK::Matrix'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\glm\detail\type_mat.hpp(330): message : vea la declaración de 'glm::detail::tmat4x4<float,0>'
   SITexturesResources.cpp
-y:\iarfid\mov\prácticas\space invaders\include\sitexturesresources.h(15): fatal error C1083: No se puede abrir el archivo incluir: 'UGKString.h': No such file or directory
   SupplyShip.cpp
-y:\iarfid\mov\prácticas\space invaders\include\navy.h(12): fatal error C1083: No se puede abrir el archivo incluir: 'UGKMeshManager.h': No such file or directory
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\UGKAlgebra.h(288,3): warning C4201: se ha utilizado una extensión no estándar: struct/union sin especificar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\RTTimer.h(88,75): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimer.h(45,17): warning C4251: 'cHRTimer::Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimer'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(4440): message : vea la declaración de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251: 'cHRTimerManager::Timers': class 'std::vector<cHRTimer,std::allocator<_Ty>>' necesita tener una interfaz DLL para que la utilicen los clientes de class 'cHRTimerManager'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52,30): warning C4251:         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message : vea la declaración de 'std::vector<cHRTimer,std::allocator<_Ty>>'
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         with
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         [
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :             _Ty=cHRTimer
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\HRT\HRTimerManager.h(52): message :         ]
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,66): warning C4100: 'z': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,57): warning C4100: 'y': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,48): warning C4100: 'x': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Physics\UGKPhysics.h(167,35): warning C4100: 'angle': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\UGK\include\Sound\UGKSoundsManager.h(139,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SupplyShip.cpp(334,9): warning C4189: 'SynWithRealTime': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SupplyShip.cpp(456,33): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SupplyShip.cpp(463,29): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SupplyShip.cpp(473,27): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SupplyShip.cpp(485,30): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SupplyShip.cpp(492,33): warning C4100: 'args': parámetro formal sin referencia
   Generando código...
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SupplyShip.cpp(498,26): warning C4100: 'args': parámetro formal sin referencia
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(1516): warning C4701: posiblemente se utilizó la variable local 'lives' sin inicializar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(2081): warning C4701: posiblemente se utilizó la variable local 'UpdT' sin inicializar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\SIGame.cpp(2082): warning C4701: posiblemente se utilizó la variable local 'RndT' sin inicializar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\lib\LiteHTML\LiteHTMLAttributes.h(1000): warning C4706: asignación en la expresión condicional
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\ShootsManager.cpp(75): warning C4701: posiblemente se utilizó la variable local 'shootTmp' sin inicializar
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\src\ShootsManager.cpp(75): warning C4703: posiblemente se utilizó la variable de puntero local 'shootTmp' sin inicializar
+UPVGameKerneld.lib(UGKKeyboardParser.obj) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > aux" (?aux@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) ya se definió en Main.obj; segunda definición omitida
+     Creando biblioteca C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\SI.lib y objeto C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\SI.exp
+C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\SI.exe : warning LNK4088: la imagen se está generando debido a la opción /FORCE; quizá la imagen no se pueda ejecutar
+RTDeskEngined.lib(RTDeskEngine.obj) : warning LNK4099: no se encontró PDB 'RTDeskEngine.pdb' con 'RTDeskEngined.lib(RTDeskEngine.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\RTDeskEngine.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+RTDeskEngined.lib(RTDeskEntity.obj) : warning LNK4099: no se encontró PDB 'RTDeskEngine.pdb' con 'RTDeskEngined.lib(RTDeskEntity.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\RTDeskEngine.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+RTDeskEngined.lib(RTDeskMsg.obj) : warning LNK4099: no se encontró PDB 'RTDeskEngine.pdb' con 'RTDeskEngined.lib(RTDeskMsg.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\RTDeskEngine.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+RTDeskEngined.lib(RTDeskMsgPool.obj) : warning LNK4099: no se encontró PDB 'RTDeskEngine.pdb' con 'RTDeskEngined.lib(RTDeskMsgPool.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\RTDeskEngine.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+RTDeskEngined.lib(RTDeskMsgPoolManager.obj) : warning LNK4099: no se encontró PDB 'RTDeskEngine.pdb' con 'RTDeskEngined.lib(RTDeskMsgPoolManager.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\RTDeskEngine.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+RTDeskEngined.lib(RTDeskList.obj) : warning LNK4099: no se encontró PDB 'RTDeskEngine.pdb' con 'RTDeskEngined.lib(RTDeskList.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\RTDeskEngine.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+RTDeskEngined.lib(RTDeskMsgDispatcher.obj) : warning LNK4099: no se encontró PDB 'RTDeskEngine.pdb' con 'RTDeskEngined.lib(RTDeskMsgDispatcher.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\RTDeskEngine.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+RTDeskEngined.lib(RTDeskTimers.obj) : warning LNK4099: no se encontró PDB 'RTDeskEngine.pdb' con 'RTDeskEngined.lib(RTDeskTimers.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\RTDeskEngine.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKSceneGraphd.lib(UGKSceneGraphUGK.obj) : warning LNK4099: no se encontró PDB 'UGKSceneGraph.pdb' con 'UGKSceneGraphd.lib(UGKSceneGraphUGK.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKSceneGraph.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKSceneGraphd.lib(UGKHTMLReader.obj) : warning LNK4099: no se encontró PDB 'UGKParser.pdb' con 'UGKSceneGraphd.lib(UGKHTMLReader.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKParser.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKSceneGraphd.lib(UGKHTMLParser.obj) : warning LNK4099: no se encontró PDB 'UGKParser.pdb' con 'UGKSceneGraphd.lib(UGKHTMLParser.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKParser.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKSceneGraphd.lib(UGKDefaultHTMLLabels.obj) : warning LNK4099: no se encontró PDB 'UGKParser.pdb' con 'UGKSceneGraphd.lib(UGKDefaultHTMLLabels.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKParser.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKHWd.lib(UGKAudioHardware.obj) : warning LNK4099: no se encontró PDB 'UGKHW.pdb' con 'UGKHWd.lib(UGKAudioHardware.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKHW.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKHWd.lib(UGKDeviceManager.obj) : warning LNK4099: no se encontró PDB 'UGKHW.pdb' con 'UGKHWd.lib(UGKDeviceManager.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKHW.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKHWd.lib(UGKGameController.obj) : warning LNK4099: no se encontró PDB 'UGKHW.pdb' con 'UGKHWd.lib(UGKGameController.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKHW.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKHWd.lib(UGKGraphicsCard.obj) : warning LNK4099: no se encontró PDB 'UGKHW.pdb' con 'UGKHWd.lib(UGKGraphicsCard.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKHW.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKHWd.lib(UGKHardware.obj) : warning LNK4099: no se encontró PDB 'UGKHW.pdb' con 'UGKHWd.lib(UGKHardware.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKHW.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKHWd.lib(UGKJoystick.obj) : warning LNK4099: no se encontró PDB 'UGKHW.pdb' con 'UGKHWd.lib(UGKJoystick.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKHW.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKHWd.lib(UGKKeyboard.obj) : warning LNK4099: no se encontró PDB 'UGKHW.pdb' con 'UGKHWd.lib(UGKKeyboard.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKHW.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKHWd.lib(UGKMouse.obj) : warning LNK4099: no se encontró PDB 'UGKHW.pdb' con 'UGKHWd.lib(UGKMouse.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKHW.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UGKHWd.lib(UGKWebCam.obj) : warning LNK4099: no se encontró PDB 'UGKHW.pdb' con 'UGKHWd.lib(UGKWebCam.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UGKHW.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(AIManager.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(AIManager.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(FSM.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(FSM.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(FSMParser.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(FSMParser.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(State.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(State.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(CBBPoint.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(CBBPoint.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(CollisionDetect.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(CollisionDetect.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(Quadtree.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(Quadtree.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKglError.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKglError.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKGLWindow.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKGLWindow.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKMSWindow.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKMSWindow.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKLanguage.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKLanguage.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKLanguageParser.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKLanguageParser.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKLanguages_ISO639.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKLanguages_ISO639.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKGLTexture.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKGLTexture.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKMesh3D.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKMesh3D.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKMeshManager.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKMeshManager.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKModel_3DS.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKModel_3DS.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKCharactersFactory.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKCharactersFactory.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKCharactersPool.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKCharactersPool.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKDeviceParser.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKDeviceParser.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKKeyboardParser.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKKeyboardParser.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKSound.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKSound.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKSoundsManager.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKSoundsManager.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKSoundSystem.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKSoundSystem.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKAlgebra.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKAlgebra.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKCamera.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKCamera.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKCharacter.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKCharacter.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKLog.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKLog.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKScore.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKScore.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+UPVGameKerneld.lib(UGKString.obj) : warning LNK4099: no se encontró PDB 'UPVGameKernel.pdb' con 'UPVGameKerneld.lib(UGKString.obj)' o en 'C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\UPVGameKernel.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  SI.vcxproj -> C:\Users\joseg\Desktop\MOV_practicas\Space Invaders\Debug\SI.exe
