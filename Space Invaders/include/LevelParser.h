@@ -53,6 +53,7 @@ typedef enum {
 	MESH_L,
 	MOVEDOWN_L,
 	MUSIC_L,	
+	CANNON_L,	// MIO
 	NAME_L,
 	NAVY_L,			//Enemy navy
 	NUMSS_L,

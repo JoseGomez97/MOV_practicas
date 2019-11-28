@@ -22,6 +22,7 @@
 
 #include <SIGame.h>
 #include <iostream>
+#include <MyCharacter.h>
 
 #define CLeP_TYPE "Level"
 
@@ -50,6 +51,7 @@ CShip*			Ship;
 CSupplyShip*	SShip;
 CCircleShip*	CCShip;
 CPlayer*		Player;
+CMyCharacter*	MyCharacter;
 
 Vector	Pos,
 		CellSize;
@@ -84,6 +86,7 @@ UGKS_String CLeP_Tags[MAXTAGS_L - MAXTAGS_D] =
 	"MESH",		///3D mesh assigned to a game character
 	"MOVEDOWN",
 	"MUSIC",
+	"CANNON",	// MIO
 	"NAME",
 	"NAVY",		///Enemy navy
 	"NUMSS",
@@ -164,6 +167,7 @@ UGKS_String CLeP_Ani2DTypes[MAX_NUM_ANI_TYPES] =
 *	 @{
 */
 extern CPlayer*			defaultPlayer;
+extern CMyCharacter*	defaultMyCharacter; // MIO
 extern CShip*			defaultShip;
 extern CSupplyShip*		defaultSShip;
 extern CCircleShip*		defaultCShip;

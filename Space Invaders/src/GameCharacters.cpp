@@ -42,6 +42,7 @@ UGKS_String CHARS_Tags[CHARS_MAX_CHARTYPE] =
 	CHARS_CIRCLESHIP,			///<Alien space ships that turns once and once again in clircles on the screen
 	CHARS_GAME,					///<The game itself 
 	CHARS_LASER,				///<Additional shooting left or right device for the player
+	CHARS_MYCHARACTER,			///<Character that helps player to fight the enemy ships
 	CHARS_NAVY,					///<Holds all the supplyships and all types of ships
 	CHARS_NAVYSHOOT,
 	CHARS_PLAYER,				///<The player
@@ -66,6 +67,7 @@ UGKS_String CHARS_Tags[CHARS_MAX_CHARTYPE] =
 	"CIRCLESHIP",
 	"GAME",
 	"LASER",
+	"MYCHARACTER",
 	"NAVY",
 	"PLAYER",
 	"REACTOR",

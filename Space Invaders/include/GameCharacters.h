@@ -28,6 +28,7 @@ typedef enum {
 	CHARS_CIRCLESHIP,			///<Alien space ships that turns once and once again in clircles on the screen
 	CHARS_GAME,					///<The game itself 
 	CHARS_LASER,				///<Additional shooting left or right device for the player
+	CHARS_MYCHARACTER,			///<Character that helps player to fight the enemy ships
 	CHARS_NAVY,					///<Holds all the supplyships and all types of ships
 	CHARS_PLAYER,				///<The player
 	CHARS_REACTOR,				///<Extra power engines and shooters for the player. Obtained after the corresponding bonus has been won
